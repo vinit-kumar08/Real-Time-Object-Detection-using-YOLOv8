@@ -1,0 +1,298 @@
+Time,Object,Confidence
+10:46:42,person,0.93
+10:52:15,person,0.93
+10:52:15,person,0.94
+10:52:15,person,0.94
+10:52:15,person,0.94
+10:52:15,person,0.94
+10:52:16,person,0.94
+10:52:16,person,0.93
+10:52:16,person,0.93
+10:52:16,person,0.93
+10:52:16,person,0.92
+10:52:16,person,0.91
+10:52:16,person,0.94
+10:52:16,person,0.92
+10:52:16,person,0.91
+10:52:17,person,0.9
+10:52:17,person,0.91
+10:52:17,person,0.93
+10:52:17,person,0.94
+10:52:17,person,0.94
+10:52:17,person,0.94
+10:52:17,person,0.94
+10:52:17,person,0.93
+10:52:18,person,0.93
+10:52:18,person,0.92
+10:52:18,person,0.56
+10:52:18,person,0.92
+10:52:18,person,0.62
+10:52:18,person,0.91
+10:52:18,person,0.62
+10:52:18,person,0.92
+10:52:18,person,0.66
+10:52:18,person,0.92
+10:52:18,person,0.64
+10:52:18,person,0.92
+10:52:18,person,0.69
+10:52:18,person,0.92
+10:52:18,person,0.75
+10:52:18,person,0.91
+10:52:18,person,0.73
+10:52:18,person,0.91
+10:52:18,person,0.76
+10:52:19,person,0.87
+10:52:19,person,0.75
+10:52:19,person,0.88
+10:52:19,person,0.76
+10:52:19,person,0.9
+10:52:19,person,0.74
+10:52:19,person,0.89
+10:52:19,person,0.67
+10:52:19,person,0.89
+10:52:19,person,0.61
+10:52:19,person,0.89
+10:52:19,person,0.58
+10:52:19,person,0.89
+10:52:19,person,0.9
+10:52:19,person,0.9
+10:52:19,person,0.9
+10:52:20,person,0.9
+10:52:20,person,0.9
+10:52:20,person,0.9
+10:52:20,person,0.9
+10:52:20,person,0.91
+10:52:20,person,0.91
+10:52:20,person,0.9
+10:52:20,person,0.92
+10:52:20,person,0.9
+10:52:20,person,0.85
+10:52:20,person,0.86
+10:52:21,person,0.89
+10:52:21,person,0.91
+10:52:21,person,0.9
+10:52:21,person,0.86
+10:52:21,person,0.87
+10:52:21,person,0.86
+10:52:21,person,0.79
+10:52:21,person,0.75
+10:52:21,person,0.87
+10:52:21,person,0.79
+10:52:22,person,0.89
+10:52:22,cell phone,0.81
+10:52:22,person,0.81
+10:52:22,cell phone,0.87
+10:52:22,person,0.81
+10:52:22,person,0.83
+10:52:22,cell phone,0.83
+10:52:22,person,0.81
+10:52:22,cell phone,0.79
+10:52:22,person,0.85
+10:52:22,cell phone,0.75
+10:52:22,person,0.85
+10:52:22,cell phone,0.54
+10:52:22,person,0.82
+10:52:22,cell phone,0.7
+10:52:22,person,0.84
+10:52:22,cell phone,0.71
+10:52:22,person,0.84
+10:52:22,cell phone,0.74
+10:52:23,person,0.81
+10:52:23,cell phone,0.67
+10:52:23,person,0.83
+10:52:23,cell phone,0.56
+10:52:23,remote,0.55
+10:52:23,person,0.83
+10:52:23,cell phone,0.56
+10:52:23,remote,0.55
+10:52:23,person,0.88
+10:52:23,cell phone,0.74
+10:52:23,person,0.88
+10:52:23,cell phone,0.77
+10:52:23,person,0.83
+10:52:23,person,0.73
+10:52:23,person,0.9
+10:52:23,person,0.91
+10:52:23,person,0.85
+10:52:24,person,0.87
+10:52:24,person,0.89
+10:52:24,person,0.88
+10:52:24,person,0.88
+10:52:24,person,0.89
+10:52:24,person,0.89
+10:52:24,person,0.89
+10:52:24,person,0.9
+10:52:24,person,0.89
+10:52:24,person,0.89
+10:52:25,person,0.9
+10:52:25,person,0.89
+10:52:25,person,0.89
+10:52:25,person,0.89
+10:52:25,person,0.89
+10:52:25,person,0.89
+10:52:25,person,0.89
+10:52:25,person,0.9
+10:52:26,person,0.89
+10:52:26,person,0.9
+10:52:26,person,0.89
+11:08:30,person,0.93
+11:08:30,person,0.9
+11:08:30,person,0.91
+11:08:31,person,0.9
+11:08:31,person,0.88
+11:08:31,person,0.92
+11:08:31,person,0.92
+11:08:31,person,0.93
+11:08:31,person,0.93
+11:08:31,person,0.94
+11:08:31,person,0.93
+11:08:31,person,0.92
+11:08:31,person,0.92
+11:08:31,person,0.9
+11:08:31,person,0.76
+11:08:32,person,0.93
+11:08:32,person,0.92
+11:08:32,person,0.92
+11:08:32,person,0.91
+11:08:32,person,0.91
+11:08:32,person,0.91
+11:08:32,person,0.9
+11:08:32,person,0.89
+11:08:32,person,0.84
+11:08:32,remote,0.66
+11:08:32,cell phone,0.6
+11:08:32,person,0.85
+11:08:32,cell phone,0.59
+11:08:33,person,0.9
+11:08:33,cell phone,0.54
+11:08:33,person,0.92
+11:08:33,cell phone,0.68
+11:08:33,person,0.92
+11:08:33,cell phone,0.73
+11:08:33,person,0.91
+11:08:33,remote,0.69
+11:08:33,cell phone,0.54
+11:08:33,person,0.91
+11:08:33,cell phone,0.64
+11:08:33,remote,0.62
+11:08:33,person,0.88
+11:08:33,cell phone,0.69
+11:08:33,remote,0.58
+11:08:33,person,0.89
+11:08:33,cell phone,0.65
+11:08:33,remote,0.52
+11:08:33,person,0.85
+11:08:33,cell phone,0.65
+11:08:33,remote,0.57
+11:08:33,person,0.89
+11:08:33,cell phone,0.81
+11:08:33,person,0.84
+11:08:33,person,0.9
+11:08:34,person,0.91
+11:08:34,person,0.9
+11:08:34,person,0.91
+11:08:34,person,0.87
+11:08:34,cell phone,0.87
+11:08:34,cell phone,0.9
+11:08:34,person,0.88
+11:08:34,cell phone,0.88
+11:08:34,person,0.87
+11:08:34,cell phone,0.88
+11:08:34,person,0.86
+11:08:34,person,0.89
+11:08:34,cell phone,0.89
+11:08:34,person,0.85
+11:08:34,cell phone,0.84
+11:08:34,cell phone,0.89
+11:08:34,person,0.89
+11:08:34,person,0.9
+11:08:34,cell phone,0.88
+11:08:35,person,0.89
+11:08:35,cell phone,0.8
+11:08:35,person,0.9
+11:08:35,cell phone,0.87
+11:08:35,person,0.89
+11:08:35,cell phone,0.87
+11:08:35,person,0.89
+11:08:35,cell phone,0.84
+11:08:35,person,0.89
+11:08:35,cell phone,0.88
+11:08:35,person,0.9
+11:08:35,cell phone,0.86
+11:08:35,cell phone,0.87
+11:08:35,person,0.85
+11:08:35,cell phone,0.87
+11:08:35,person,0.85
+11:08:35,cell phone,0.9
+11:08:35,person,0.87
+11:08:35,person,0.91
+11:08:35,cell phone,0.82
+11:08:35,person,0.92
+11:08:36,person,0.91
+11:08:36,person,0.92
+11:08:36,person,0.92
+11:08:36,person,0.92
+11:08:36,person,0.93
+11:08:36,person,0.93
+11:08:36,person,0.93
+11:08:36,person,0.93
+11:08:36,person,0.93
+11:08:36,person,0.92
+11:08:36,person,0.92
+11:08:37,person,0.91
+11:08:37,person,0.91
+11:08:37,person,0.93
+11:08:37,person,0.92
+11:08:37,person,0.93
+11:08:37,person,0.92
+11:08:37,person,0.92
+11:08:37,person,0.93
+11:08:37,person,0.92
+11:08:37,person,0.92
+11:08:37,person,0.92
+11:08:38,person,0.92
+11:08:38,person,0.93
+11:08:38,person,0.93
+11:08:38,person,0.93
+11:08:38,person,0.93
+11:08:38,person,0.92
+11:08:38,person,0.93
+11:08:38,person,0.93
+11:08:38,person,0.92
+11:08:38,person,0.93
+11:08:38,person,0.94
+11:08:39,person,0.93
+11:08:39,person,0.93
+11:08:39,person,0.94
+11:08:39,person,0.94
+11:08:39,person,0.94
+11:08:39,person,0.94
+11:08:39,person,0.94
+11:08:39,person,0.94
+11:08:39,person,0.94
+11:08:39,person,0.94
+11:08:39,person,0.94
+11:08:40,person,0.94
+11:08:40,person,0.94
+11:08:40,person,0.94
+11:08:40,person,0.93
+11:08:40,person,0.94
+11:08:40,person,0.94
+11:08:40,person,0.94
+11:08:40,person,0.94
+11:08:40,person,0.93
+11:08:40,person,0.94
+11:08:40,person,0.94
+11:08:41,person,0.94
+11:08:41,person,0.94
+11:08:41,person,0.94
+11:08:41,person,0.94
+11:08:41,person,0.94
+11:08:41,person,0.94
+11:08:41,person,0.94
+11:08:41,person,0.94
+11:08:41,person,0.94
+11:08:41,person,0.94
+11:08:42,person,0.93
+11:08:42,person,0.94
+11:08:42,person,0.93
